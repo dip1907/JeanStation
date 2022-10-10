@@ -1,7 +1,7 @@
 
 //import { Variable } from '@angular/compiler/src/render3/r3_ast';
 import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
-import { FormGroup, FormBuilder, Validators } from '@angular/forms';
+import { UntypedFormGroup, UntypedFormBuilder, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 import { User } from 'src/app/Model/user';
 import { EmailService } from 'src/app/service/email.service';
@@ -19,10 +19,10 @@ import { Login } from '../../Model/login';
 })
 export class LoginComponent implements OnInit {
 
-  modelform!: FormGroup;
-  loginform!: FormGroup;
-  Otpform!: FormGroup;
-  Passwordform!: FormGroup;
+  modelform!: UntypedFormGroup;
+  loginform!: UntypedFormGroup;
+  Otpform!: UntypedFormGroup;
+  Passwordform!: UntypedFormGroup;
   otp: number;
   emailObj: Email;
   loginObj: Login;
@@ -31,7 +31,7 @@ export class LoginComponent implements OnInit {
   user:User
   val: number;
   modalCheck:string = "modal";
-  constructor(private formbuilder: FormBuilder, private emailservice: EmailService, private userservice: UserService, private route: Router, private cd: ChangeDetectorRef) {
+  constructor(private formbuilder: UntypedFormBuilder, private emailservice: EmailService, private userservice: UserService, private route: Router, private cd: ChangeDetectorRef) {
     this.emailObj = new Email();
     this.loginObj = new Login();
     this.authuser = new AuthUser();

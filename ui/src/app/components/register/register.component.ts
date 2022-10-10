@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { UntypedFormBuilder, UntypedFormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 import { Email } from 'src/app/Model/email';
 import { User } from 'src/app/Model/user';
@@ -19,15 +19,15 @@ export class RegisterComponent implements OnInit {
   otp: number;
   emailObj: Email;
   OtpVerified: boolean = false;
-  Otpform!: FormGroup;
+  Otpform!: UntypedFormGroup;
   val: number;
   EmailVerified: boolean;
-  constructor(private formbuilder: FormBuilder, private userservice: UserService, private emailservice: EmailService, private route: Router) {
+  constructor(private formbuilder: UntypedFormBuilder, private userservice: UserService, private emailservice: EmailService, private route: Router) {
     this.emailObj = new Email();
     this.user = new User();
     this.emailclass = new Email();
   }
-  signupform!: FormGroup;
+  signupform!: UntypedFormGroup;
   ngOnInit(): void {
     this.signupform = this.formbuilder.group({
       name: ['', [Validators.required]],

@@ -3,7 +3,7 @@ import { Cart } from 'src/app/Model/cart';
 import { Item } from 'src/app/Model/Item';
 import { CartService } from 'src/app/service/cart.service';
 import { ProductService } from 'src/app/service/product.service';
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { FormBuilder, UntypedFormGroup, Validators } from '@angular/forms';
 import { Address } from 'src/app/Model/userAddress';
 import { UserService } from 'src/app/service/user.service';
 import { OrderService } from 'src/app/service/order.service';
@@ -18,7 +18,7 @@ import { MatDialog } from '@angular/material/dialog';
 })
 export class CartComponent implements OnInit {
 
-  withoutMaterialForm: FormGroup;
+  withoutMaterialForm: UntypedFormGroup;
   submitted: boolean = false;
 
 

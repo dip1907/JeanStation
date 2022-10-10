@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { UntypedFormBuilder, UntypedFormGroup, Validators } from '@angular/forms';
 import { Email } from 'src/app/Model/email';
 import { User } from 'src/app/Model/user';
 import { EmailService } from 'src/app/service/email.service';
@@ -12,13 +12,13 @@ import { UserService } from 'src/app/service/user.service';
 })
 export class EditUserDetailsComponent implements OnInit {
 
-  constructor(private formbuilder: FormBuilder, private emailservice: EmailService, private userservice: UserService) {
+  constructor(private formbuilder: UntypedFormBuilder, private emailservice: EmailService, private userservice: UserService) {
     this.user = new User();
     this.emailclass = new Email();
     this.userId = +localStorage.getItem("userId");
   }
 
-  EditDetailsForm!: FormGroup;
+  EditDetailsForm!: UntypedFormGroup;
   user: User;
   emailclass: Email;
 
