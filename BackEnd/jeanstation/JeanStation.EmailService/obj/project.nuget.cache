@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzf8KPA71cneHfzkkGk3Kf+Wh9OnaR+uMr0v5BxAuh7MTYua3v5EFS2i0RVIr75fQR2YvfzTbla0CyyOMiyFNQ==",
+  "dgSpecHash": "8wGCpH9VU8e71qzRfTDpqltlXEXDK/2y8KSNNpV6e7NI1MzQlS6njnzgvG64tk6S/cmu4NbS5MwbdDB29sqFcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.EmailService\\JeanStation.EmailService.csproj",
+  "projectFilePath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.EmailService\\JeanStation.EmailService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mural\\.nuget\\packages\\jwt\\7.3.1\\jwt.7.3.1.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
@@ -81,7 +81,11 @@
     "C:\\Users\\mural\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
+    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj": {}
+    "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj": {
+    "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj",
+        "projectUniqueName": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj",
         "projectName": "ItemTest",
-        "projectPath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj",
+        "projectPath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj",
         "packagesPath": "C:\\Users\\mural\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\ItemTest\\obj\\",
+        "outputPath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\ItemTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj": {
-                "projectPath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj"
+              "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj": {
+                "projectPath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj"
               }
             }
           }
@@ -75,27 +76,42 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj": {
+    "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj",
+        "projectUniqueName": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj",
         "projectName": "JeanStation.ItemService",
-        "projectPath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj",
+        "projectPath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.ItemService\\JeanStation.ItemService.csproj",
         "packagesPath": "C:\\Users\\mural\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.ItemService\\obj\\",
+        "outputPath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.ItemService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -110,6 +126,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -165,10 +182,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -177,7 +213,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

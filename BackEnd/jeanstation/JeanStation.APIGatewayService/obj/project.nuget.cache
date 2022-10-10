@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "913gPAXRE79Znn7tVwAVQbVfNcd1KwMJS9BDj2O2dZy13PPPX82nQnOTXIRRSxwIEFCRhj0WwuK3qbqQ1N+0Ug==",
+  "dgSpecHash": "KlXrUQLPprNTc1jIcV3J5SqGlgnlJ5GwC6yxwR73hnu5KAFehkBb8gTqZKB/fol7goYB6aowvSeLd9+OcDoWOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.APIGatewayService\\JeanStation.APIGatewayService.csproj",
+  "projectFilePath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.APIGatewayService\\JeanStation.APIGatewayService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mural\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\jwt\\7.3.1\\jwt.7.3.1.nupkg.sha512",
@@ -78,7 +78,11 @@
     "C:\\Users\\mural\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+    "C:\\Users\\mural\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

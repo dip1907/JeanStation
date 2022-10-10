@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VVPfzAW6GC3i412ITTyBU5qfuoPRwAtm6XZfy60s6JDmzIbfAGUonUWuuUVJOVH4AyqiaxESBC8HYP7pWtUmYg==",
+  "dgSpecHash": "5qOs1uY1+1AaYXEX+NknyNn3P8bLhiSvhDpEnaD1oMtF7rVR11yygUmFXeIpmIRyzHA4e81Akn9kqvhDGtcqyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\JeanStation.UserService\\JeanStation.UserService.csproj",
+  "projectFilePath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.UserService\\JeanStation.UserService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mural\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -145,7 +145,11 @@
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

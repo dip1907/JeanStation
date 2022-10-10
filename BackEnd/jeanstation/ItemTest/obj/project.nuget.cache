@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H0aFsLB7FnDTF7BpnFy+xM3v7p6W8Fv5jqfxGkaIqYN/ek2e5FHeWq6EJ3G4RcN4r7aluAH+zrovy1RPSSBtSQ==",
+  "dgSpecHash": "OSkyV7kYPZN5Z7mnJbzSrlknmmaUowNcTG1fZxI3kdCVIzVfM56ErCTZLtQIV4r8jP3cBBhz7dGF7U98MZkUpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mural\\Downloads\\Sutherland\\Project\\jeanstationbackup\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj",
+  "projectFilePath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mural\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
@@ -146,7 +146,10 @@
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
