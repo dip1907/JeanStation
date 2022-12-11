@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OSkyV7kYPZN5Z7mnJbzSrlknmmaUowNcTG1fZxI3kdCVIzVfM56ErCTZLtQIV4r8jP3cBBhz7dGF7U98MZkUpA==",
+  "dgSpecHash": "xg2TmrVt5CbuerLXMFtCvx/fNWj3W3/+Syva5duDVD/bFkr8xhcs05pzvuHOvUcVKoZnNYTvzCpaNN0EjJjHoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\ItemTest\\ItemTest.csproj",
   "expectedPackageFiles": [
@@ -146,10 +146,7 @@
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\mural\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\mural\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\mural\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
