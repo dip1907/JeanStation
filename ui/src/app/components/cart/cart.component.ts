@@ -9,7 +9,7 @@ import { UserService } from 'src/app/service/user.service';
 import { OrderService } from 'src/app/service/order.service';
 import { Order } from 'src/app/admin/Model/Order';
 import { Router } from '@angular/router';
-import { MatDialog } from '@angular/material/dialog';
+import { MatLegacyDialog as MatDialog } from '@angular/material/legacy-dialog';
 
 @Component({
   selector: 'app-cart',
