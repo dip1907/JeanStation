@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.FileUploadAPI\\wwwroot\\uploads\\Item16-image1.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\Item16-image1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.FileUploadAPI\\wwwroot\\uploads\\Item16-image2.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\Item16-image2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mural\\Downloads\\FSD\\FSD\\jean-station\\BackEnd\\jeanstation\\JeanStation.FileUploadAPI\\wwwroot\\uploads\\Item16-image3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\Item16-image3.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.JeanStation.FileUploadAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.JeanStation.FileUploadAPI.props",
+      "PackagePath": "build\\JeanStation.FileUploadAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.JeanStation.FileUploadAPI.props",
+      "PackagePath": "buildMultiTargeting\\JeanStation.FileUploadAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.JeanStation.FileUploadAPI.props",
+      "PackagePath": "buildTransitive\\JeanStation.FileUploadAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
