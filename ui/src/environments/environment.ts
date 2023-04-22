@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   // url_js:"https://jeanstationapigatewayservice.azurewebsites.net/"
-  url_js:"http://localhost:46802"
+  url_js:"http://localhost:46802/"
 };
 
 /*

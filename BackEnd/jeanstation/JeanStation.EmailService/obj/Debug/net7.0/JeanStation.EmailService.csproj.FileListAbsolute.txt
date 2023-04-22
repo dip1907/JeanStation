@@ -16,7 +16,6 @@ C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.Em
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\MimeKit.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\BouncyCastle.Crypto.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -42,3 +41,4 @@ C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.Em
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\obj\Debug\net7.0\JeanStation.EmailService.pdb
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\obj\Debug\net7.0\JeanStation.EmailService.genruntimeconfig.cache
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\obj\Debug\net7.0\ref\JeanStation.EmailService.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.EmailService\bin\Debug\net7.0\BouncyCastle.Cryptography.dll

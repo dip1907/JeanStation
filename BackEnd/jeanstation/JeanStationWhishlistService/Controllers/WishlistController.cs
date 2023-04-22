@@ -79,7 +79,8 @@ namespace JeanStation.WishListService.Controllers
             {
                 using (HttpClient client = new HttpClient(), client1 = new HttpClient())
                 {
-                    string url1 = "https://jeanstationitemservice.azurewebsites.net";
+                    //string url1 = "https://jeanstationitemservice.azurewebsites.net";
+                    string url1 = "http://localhost:27332";
                     client.BaseAddress = new Uri(url1);
                     client.DefaultRequestHeaders.Accept.Clear();
                     client.DefaultRequestHeaders.Accept.Add(
@@ -89,7 +90,8 @@ namespace JeanStation.WishListService.Controllers
                     string itemStringContent = await responseMessageItem.Content.ReadAsStringAsync();
                     Item itemContent = JsonConvert.DeserializeObject<Item>(itemStringContent);
 
-                    client1.BaseAddress = new Uri("https://jeanstationuserservice.azurewebsites.net");
+                   // client1.BaseAddress = new Uri("https://jeanstationuserservice.azurewebsites.net");
+                    client1.BaseAddress = new Uri("http://localhost:31506");
                     client1.DefaultRequestHeaders.Accept.Clear();
                     client1.DefaultRequestHeaders.Accept.Add(
                      new MediaTypeWithQualityHeaderValue(

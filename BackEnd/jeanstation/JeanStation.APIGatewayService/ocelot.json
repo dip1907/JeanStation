@@ -64,6 +64,7 @@
         "AllowedScopes": []
       }
     },
+    //Cart 
     {
       "DownstreamPathTemplate": "/api/Cart/dec/{userId}/{itemId}",
       "DownstreamScheme": "http",
@@ -152,6 +153,7 @@
         "AllowedScopes": []
       }
     },
+    //Orders
     {
       "DownstreamPathTemplate": "/api/Order",
       "DownstreamScheme": "http",
@@ -196,6 +198,7 @@
         "AllowedScopes": []
       }
     },
+    //Payments
     {
       "DownstreamPathTemplate": "/api/Payment/{catchall}",
       "DownstreamScheme": "http",
@@ -217,6 +220,7 @@
         "AllowedScopes": []
       }
     },
+    //Users
     {
       "DownstreamPathTemplate": "/api/User/Login",
       "DownstreamScheme": "http",
@@ -305,7 +309,7 @@
     },
     {
       "DownstreamPathTemplate": "/api/User",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           //"Host": "jeanstationuserservice.azurewebsites.net"
@@ -318,6 +322,7 @@
         "GET"
       ]
     },
+    //Whishlists
     {
       "DownstreamPathTemplate": "/api/Wishlist/{UserId}",
       "DownstreamScheme": "http",
@@ -381,6 +386,7 @@
         "AllowedScopes": []
       }
     },
+    //File Upload
     {
       "DownstreamPathTemplate": "/api/File/upload",
       "DownstreamScheme": "http",
@@ -399,6 +405,7 @@
         "DELETE"
       ]
     },
+    // Mail 
     {
       "DownstreamPathTemplate": "/api/Mail/send",
       "DownstreamScheme": "http",

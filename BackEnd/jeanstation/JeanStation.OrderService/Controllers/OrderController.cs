@@ -103,7 +103,8 @@ namespace JeanStation.OrderService.Controllers
             {
                 using (HttpClient client = new HttpClient(), client1 = new HttpClient())
                 {
-                    string url1 = "https://jeanstationcartservice.azurewebsites.net";
+                    //string url1 = "https://jeanstationcartservice.azurewebsites.net";
+                    string url1 = "http://localhost:3917";
                     client.BaseAddress = new Uri(url1);
                     client.DefaultRequestHeaders.Accept.Clear();
                     client.DefaultRequestHeaders.Accept.Add(
@@ -143,7 +144,8 @@ namespace JeanStation.OrderService.Controllers
 
                             // MultiItemsOrder multiItemsOrder = new MultiItemsOrder();
                             bool itemContent2 = false;
-                            client1.BaseAddress = new Uri("https://jeanstationitemservice.azurewebsites.net");
+                            //client1.BaseAddress = new Uri("https://jeanstationitemservice.azurewebsites.net");
+                            client1.BaseAddress = new Uri("http://localhost:27332");
                             for (int i = 0; i < totalQuantity; i++)
                             {
                                 MultiItemsOrder multiItemsOrder = new MultiItemsOrder();
@@ -241,7 +243,8 @@ namespace JeanStation.OrderService.Controllers
                 using (HttpClient client = new HttpClient())
                 {
                     List<MultiItemsOrder> orderstatus = _orderServices.GetItemsInOrder(id);
-                    client.BaseAddress = new Uri("https://jeanstationitemservice.azurewebsites.net");
+                    //client.BaseAddress = new Uri("https://jeanstationitemservice.azurewebsites.net");
+                    client.BaseAddress = new Uri("http://localhost:27332");
                     List<Item> items = new List<Item>();
 
                     if( orderstatus.Count > 0)

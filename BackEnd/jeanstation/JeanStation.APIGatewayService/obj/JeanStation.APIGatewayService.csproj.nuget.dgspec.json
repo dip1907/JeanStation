@@ -47,11 +47,11 @@
           "dependencies": {
             "JWT": {
               "target": "Package",
-              "version": "[7.3.1, )"
+              "version": "[10.0.2, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.15, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
@@ -59,7 +59,7 @@
             },
             "Ocelot": {
               "target": "Package",
-              "version": "[17.0.1, )"
+              "version": "[18.0.0, )"
             }
           },
           "imports": [

@@ -1,6 +1,7 @@
 import { Component, Optional, Inject } from '@angular/core';
 import { Item } from 'src/app/Model/Item';
-import { MatLegacyDialogRef as MatDialogRef, MAT_LEGACY_DIALOG_DATA as MAT_DIALOG_DATA } from '@angular/material/legacy-dialog';
+// import { MatLegacyDialogRef as MatDialogRef, MAT_LEGACY_DIALOG_DATA as MAT_DIALOG_DATA } from '@angular/material/legacy-dialog';
+import { MatDialogRef,MAT_DIALOG_DATA } from '@angular/material/dialog';
 import { HttpClient } from '@angular/common/http';
 import { environment } from 'src/environments/environment';
 

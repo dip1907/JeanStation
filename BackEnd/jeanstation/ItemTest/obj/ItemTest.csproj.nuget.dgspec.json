@@ -51,23 +51,25 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.4, )"
+              "version": "[17.5.0, )"
             },
             "Moq": {
               "target": "Package",
-              "version": "[4.17.2, )"
+              "version": "[4.18.4, )"
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.1, )"
+              "version": "[3.13.3, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.17.0, )"
+              "version": "[4.4.2, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[3.2.0, )"
             }
           },
           "imports": [
@@ -133,33 +135,33 @@
           "dependencies": {
             "JWT": {
               "target": "Package",
-              "version": "[7.3.1, )"
+              "version": "[10.0.2, )"
             },
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",
-              "version": "[5.2.7, )"
+              "version": "[5.2.9, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.15, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[7.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

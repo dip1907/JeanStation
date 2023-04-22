@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Item } from 'src/app/Model/Item';
 import { CartService } from 'src/app/service/cart.service';
@@ -16,6 +16,7 @@ export class HomeComponent implements OnInit {
   items: Item[];
   constructor(private itemService:ProductService, private cartService:CartService, private route:Router,private wishService:WishlistService,private userSer:UserService) {
     this.userName = localStorage.getItem('uname')
+    // console.log(this.userName);
    }
 
   userName:string;
@@ -35,7 +36,7 @@ export class HomeComponent implements OnInit {
   addToCart(itemId:number){
     if(this.userName != null || this.userName != '', this.userName != undefined){
       this.cartService.addToCart(itemId,1).subscribe(res=>{
-        //console.log(res);
+        console.log(res);
         if(res != null){
           alert("Item Added to the Cart")
         }

@@ -38,13 +38,9 @@ C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.It
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
@@ -72,3 +68,13 @@ C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.It
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\obj\Debug\net7.0\JeanStation.ItemService.pdb
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\obj\Debug\net7.0\JeanStation.ItemService.genruntimeconfig.cache
 C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\obj\Debug\net7.0\ref\JeanStation.ItemService.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mural\Downloads\FSD\FSD\jean-station\BackEnd\jeanstation\JeanStation.ItemService\bin\Debug\net7.0\System.Memory.Data.dll
