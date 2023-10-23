@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BZ1mZ+uESOBIQ0cnRWb96IqFiw/D0Fl+VOu84PLbFQI=",
+  "Source": "JeanStation.APIGatewayService",
+  "BasePath": "_content/JeanStation.APIGatewayService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
